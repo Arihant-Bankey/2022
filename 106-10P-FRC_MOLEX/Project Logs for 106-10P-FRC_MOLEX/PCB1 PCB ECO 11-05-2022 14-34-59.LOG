@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=D12 Old Footprint=smb New Footprint=Diode
+Change component parameters: Designator = "D1"; Footprint = "Diode"; UniqueID = "\ZEGHTKYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D1A"; Footprint = "smb"; UniqueID = "\MEVMXFRH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D3"; Footprint = "smb"; UniqueID = "\EIQPXZLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D5"; Footprint = "smd diode"; UniqueID = "\TXHTIPGJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D6"; Footprint = "smb"; UniqueID = "\BBDATAKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D7"; Footprint = "smd diode"; UniqueID = "\ZYSVELST"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D8"; Footprint = "smb"; UniqueID = "\TIWPTKPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D9"; Footprint = "Diode"; UniqueID = "\RICHESWF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D10"; Footprint = "Diode"; UniqueID = "\QJFCUHQW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D11"; Footprint = "smb"; UniqueID = "\YLWXDTZP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D12"; Footprint = "Diode"; UniqueID = "\WDDBRPQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D13"; Footprint = "Diode"; UniqueID = "\ONTEOEDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D14"; Footprint = "Diode"; UniqueID = "\TNUIJNKL"
+Change component parameters. Clean all parameters for all variants
