@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D2A
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP1A
+Change Component Designator: OldDesignator=R28 NewDesignator=R28A
+Change Component Designator: OldDesignator=R31 NewDesignator=R31A
+Change Component Designator: OldDesignator=U4 NewDesignator=U4A
+Added Pin To Net: NetName=PWMB Pin=U1-4
+Change Net Name : Old Net Name=NET-3 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NET-4 New Net Name=ERROR
+Change Net Name : Old Net Name=NetC12_2 New Net Name=VE1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=VE2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD2A_1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=I/P A
+Change Net Name : Old Net Name=NetD4_3 New Net Name=I/P D
+Change Net Name : Old Net Name=NetD5_1 New Net Name=G1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=G2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=VISO2
+Change Net Name : Old Net Name=NetD12_1 New Net Name=VISO1
+Change Net Name : Old Net Name=NetERROR_1 New Net Name=ERROR1
+Change Net Name : Old Net Name=NetJP1_1 New Net Name=ERROR2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=PWM INA
+Change Net Name : Old Net Name=NetR14_2 New Net Name=PWM INB
+Change Net Name : Old Net Name=NetR19_2 New Net Name=SO
+Change Net Name : Old Net Name=NetR28_2 New Net Name=VCE1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=VCE2
